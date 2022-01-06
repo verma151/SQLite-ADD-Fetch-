@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookLibrary</string>
+    <string name="no_data">No Data.</string>
+
+    <string name="todo">TODO</string>
+    <string name="book_title">Book Title</string>
+    <string name="number_of_pages">Number of pages</string>
+    <string name="add">Add</string>
+    <string name="book_author">Book Author</string>
+</resources>
